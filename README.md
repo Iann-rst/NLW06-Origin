@@ -17,3 +17,11 @@
 - Fazer o Serviços;
 
 - javascript;
+
+## Dia 03: Aula 3
+
+  - Carrossel de depoimentos
+
+  - Enviar mensagem via WhatsApp
+
+  - Animação quando rolar a página (scrollreveal)
