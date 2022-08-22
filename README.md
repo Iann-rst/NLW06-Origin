@@ -20,8 +20,10 @@
 
 ## Dia 03: Aula 3
 
-  - Carrossel de depoimentos
+  - Biblioteca swiperjs;
 
-  - Enviar mensagem via WhatsApp
+  - Carrossel de depoimentos;
 
-  - Animação quando rolar a página (scrollreveal)
+  - Enviar mensagem via WhatsApp;
+
+  - Animação quando rolar a página (scrollreveal);
